@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>TOUR WEBSITE</title>
+<link rel="stylesheet" type="text/css" href="dog/style.css">
+</head>
+<body>
+    <header>
+         <div class="main">
+             <div class="logo">
+                  <img src="Jayanth logo.png">
+             <ul>
+                <li class="active"><a>Home</a></li>
+                <li><a>Services</a>
+			<ul>
+			     <li><a href="#volvo service">volvo service</a></li>
+			     <li><a href="#garuda service">garuda service</a></li>
+			     <li><a href="#kallada service">kallada service</a></li>
+			</ul>
+		</li>
+                <li><a>tourist places</a>
+			<ul>
+			     <li><a href="#bangalore">bangalore</a></li>
+			     <li><a href="#delhi">delhi</a></li>
+			     <li><a href="#mumbai">mumbai</a></li>
+			</ul>
+		</li>
+                <li><a>siteseens</a>
+			<ul>
+			     <li><a href="#gardens">gardens</a></li>
+			     <li><a href="#museums">museums</a></li>
+			     <li><a href="#temples">temples</a></li>
+			     <li><a href="#monuments">monuments</a></li>
+			</ul>
+		</li>
+                <li><a>Contact</a>
+			<ul>
+			     <li><a>ph.no:8465197642</a></li>
+			     <li><a>mob.no:7015846582</a></li>
+			</ul>
+		</li>
+                <li><a>about</a>
+			<ul>
+			     <li><a href="#Our Team">Our Team</a></li>
+			     <li><a href="#mission & vision">mission & vision </a></li>
+			     <li><a href="#resources">resources</a></li>
+			     <li><a href="#prices">prices</a></li>
+			</ul>
+		</li>
+             </ul>
+        </div>
+        <div class="title">
+            <h1>TOUR WEBSITE</h1>
+        </div>
+        <div class="button">
+            <a href="#" class="btn">WATCH VIDEO</a>
+            <a href="#" class="btn">LEARN MORE</a>
+       </div>
+      
+    </header>
+<h2><a name="volvo service">VOLVO SERVICE</a></h2>
+      <div id="main1">
+           <img class="image" src="volvo.jpg"/>
+     </div>
+<p class="x">&nbsp &nbsp Volvo Buses is one of the world's biggest manufacturers of large buses and coaches.We drive society forward through innovative
+solutions that improve the everyday life for people and entire cities,today and tomorrow.</p>   
+<p class="y">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The Bus operation has a global presence,with production in Europe,North and South America,Asia and Australia.In India it setup 
+its production facility in bangalore.Former production facility was located in Irvine,Scotland(closed in 2000).</p>      
+<p class="z">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Volvo Buses offers a range of services designed for maximum uptime and productivity.
+We know that keeping your vehicle on road and avoiding unnecessary costs are crucial for your business.And in addition we offer several services which can boost your
+company's performance.</p>
+
+<h2><a name="garuda service">GARUDA SERVICE</a></h2>
+      <div id="main2">
+           <img class="image" src="garuda.jpg"/>
+     </div>
+<p class="b">&nbsp &nbsp Garuda buses are run by APSRTC;they come in two categories like Garuda plus(AC Sleeper Multi Axle) and Garuda(AC Semisleeper Volvo/Benz/Isuzu).All
+the Garuda buses provide comfortable journey experience to the passengers of interstate and intrastate.</p>
+<p class="v">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 412 Garuda buses are run by APSRTC on daily basis.The longest route covered by APSRTC Garuda buses is from Visakhapatnam to Bangalore,while the 
+shortest route being from Vijayawada to Gannavaram.</p>
+<p class="s">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The popular cities served by APSRTC garuda buses are Rajhamundry,Visakhapatnam,Vijayawada.The ticket fare of APSRTC garuda bus plying
+from Visakhapatnam to Bangalore is 2003.where as the minimum ticketfare of bus plying from Tirupati to Nellore is 231.</p>  
+
+<h2><a name="kallada service">KALLADA SERVICE</a></h2>
+      <div id="main3">
+           <img class="image" src="kallada.png"/>
+     </div>
+<p class="k">&nbsp &nbsp Kallada travels has a fleet of over 155 buses including multi-axle volvo and sleeper and semisleeper buses in both AC and NON-AC category,it operates
+in all the major routes in atleast 4 states including Andhra Pradesh,Tamilnadu,Kerala,Karnataka.</p>
+<p class="p">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Kallada travels G4 covers 158 routes (approx) on daily basis.There are 207 night buses run by Kallada travels G4.Kallada traves
+G4 is known for well-equipped buses and friendly staff steadily looking after passenger needs.</p>
+<p class="j">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Shortest route is Thrissur to Ernakulam and longest route is Attingal to Bangalore.Kallada travels
+G4 provides smooth bus services across a number of cities.This efficient bus company constantly strives in creating travel convenience for many travellers.</p>
+
+<h2><a name="bangalore">BANGALORE</a></h2>
+      <div id="main3">
+           <img class="image" src="bangalore attractions.jpeg"/>
+     </div>
+<p class="n">&nbsp &nbsp Bengalore is officially known as Bengaluru is the capital of karnataka.It has population of over 10 million,making it a megacity and third-most populus city 
+and fifth-most populus urban agglomeration in INDIA.It is located in southern india.It is reflected by its more than 1000 hindu temples,400 mosques,100 churches,
+40 jain Basadis,3 sikh gurdwaras,2 buddhist viharas,1 parsi fire temple located in an area of 741sqkm of the metropolis.The numerous bahas have a society called the Bahai Centre.
+<center>
+<table border="3" bordercolor="red" width="200">
+<tr>
+   <th>GARDENS</th>
+   <th>MUSEUMS</th>
+   <th>TEMPLES</th>
+   <th>MONUMENTS</th>
+</tr>
+<tr>
+   <th>LALBAGH BOTANICAL GARDEN</th>
+   <th>GOVERNMENT MUSEUM</th>
+   <th>NANDI TEMPLE</th>
+   <th>BASAVANNA STATUE</th>
+</tr>
+<tr>
+   <th>BUGLE ROCK PARK</th>
+   <th>BANGALORE PALACE</th>
+   <th>SHIVOHAM SHIVA TEMPLE</th>
+   <th>KEMPE GOWDA TOWER</th>
+</tr>
+<tr>
+   <th>CUBBON PARK</th>
+   <th>KEMPAGOWDA MUSEUM</th>
+   <th>ISKCON TEMPLE</th>
+   <th>DARIA DAULAT BAGH</th>
+</tr>
+</table>
+</center>
+</p>
+
+<h2><a name="delhi">DELHI</a></h2>
+      <div id="main3">
+           <img class="image" src="delhi attractions.jpeg"/>
+     </div>
+<p class="q">&nbsp &nbsp Delhi officaly the NATIONAL CAPITAL TERRITORY OF DELHI (NCT),is a city and a union territory of INDIA containing NEW DELHI,the capital of india.
+It is bordered by the state of HARYANA on three sides and by UTTAR PRADESH to the east.The NCT covers an area of 1484 sqkm (573 sqmi).According to the 2011 census,Delhi's
+city proper population was over 11 million,the second-highest in india after Mumbai,while the whole NCT's population was about 16.8 million.Delhi has hosted many major International
+sporting events,including the first and also ninth Asian Games,the 2011 Cricket World cup.In 2006,Delhi had 165 colleges,5 medical colleges and 8 engineering colleges,7 major universities
+and 9 deemed universities.
+      
+<center>
+<table border="3" bordercolor="aqua" width="200">
+<tr>
+   <th>GARDENS</th>
+   <th>MUSEUMS</th>
+   <th>TEMPLES</th>
+   <th>MONUMENTS</th>
+</tr>
+<tr>
+   <th>LODHI GARDEN</th>
+   <th>NATIONAL MUSEUM</th>
+   <th>YOGMAYA TEMPLE</th>
+   <th>QUTUB MINAR</th>
+</tr>
+<tr>
+   <th>MUGHAL GARDEN</th>
+   <th>NATIONAL RAIL MUSEUM</th>
+   <th>LAXMINARAYAN TEMPLE</th>
+   <th>INDIA GATE</th>
+</tr>
+<tr>
+   <th>TALKATORA GARDEN</th>
+   <th>INDIAN AIR FORCE MUSEUM</th>
+   <th>SHANI DHAM TEMPLE</th>
+   <th>RAJ GHAT</th>
+</tr>
+</table>
+</center>
+</p>
+
+<h2><a name="mumbai">MUMBAI</a></h2>
+      <div id="main3">
+           <img class="image" src="mumbai attractions.jpeg"/>
+     </div>
+<p class="m">&nbsp &nbsp Mumbai also known as BOMBAY is the capital of Maharastra.According to United Nations,as of 2018,Mumbai was the second most populous city after Delhi and the seventh most populous 
+city in the world with a population of 19.98 million.Mumbai consists of two distinct regions:Mumbai City district and Mumbai Suburbam district,which form two seperate revenue districts of Maharastra. Cricket is more
+popular than any other sport in the city.Mumbai is the home to the BCCI and IPL.Football is another popular sport in the city ,with the FIFA WORLD CUP and the English Premier League being followed widely.The mumbai 
+rail net work is spread at an expense of 319 route kilo meters.191 rakes (train-sets) of 9 car and 12 car compositions are utilised to run a total of 2226 train services in the city.The JUHU AERODROME was india's first airport 
+,and now hosts the BOMBAY FLYING CLUB and a heliport operated by state-owned PAWAN HANS.
+
+<center>
+<table border="3" bordercolor="lime" width="200">
+<tr>
+   <th>GARDENS</th>
+   <th>MUSEUMS</th>
+   <th>TEMPLES</th>
+   <th>MONUMENTS</th>
+</tr>
+<tr>
+   <th>HANGING GARDENS</th>
+   <th>RBI MONETARY MUSEUM</th>
+   <th>BABULNATH TEMPLE</th>
+   <th>GATEWAY OF INDIA</th>
+</tr>
+<tr>
+   <th>RAJAWADI GARDENS</th>
+   <th>B.E.S.T.BUS MUSEUM</th>
+   <th>WALKESHWAR TEMPLE</th>
+   <th>BOMBAY CASTLE</th>
+</tr>
+<tr>
+   <th>AMARSONS GARDENS</th>
+   <th>NEHRU SCIENCE CENTER</th>
+   <th>JAGDISHWAR TEMPLE</th>
+   <th>KHADA PARSI STATUE</th>
+</tr>
+</table>
+</center>
+</p>
+
+<h2><a name="gardens">GARDENS</a></h2>
+      <div id="main3">
+           <img class="image" src="garden.jpeg"/>
+     </div>
+<p class="a">&nbsp &nbsp A Garden is a planned space,usually outdoors,set aside for the display,cultivation,or enjoyment of plants 
+and other forms of nature.The garden can incorporate both natural and man-made materials.The most common form today is a residential 
+garden,but the term garden has traditionally been a more general one.Zoos,which display wild animals in simulated natural habitats,
+were formerly called zoological gardens.Western gardens are almost universally based on plants,with gardens often signifying a shortened
+form of botanical garden.Some traditional types of eastern gardens,such as Zen gardens,usually use plants sparsely or not at all.</p>
+<p class="c">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Gardens may exhibit structural enhancements including statuary,follies,pergolas,trellises,
+stumperies,dry creek beds and water features such as fountains,ponds(with or without fish),waterfalls or creeks.Some gardens also produce food crops 
+,sometimes in seperate areas,or sometimes intermixed with the ornamental plants.Flower gardens combine plants of different heights,colors,textures
+and fragrances to create interest and delight the senses.</p>
+<p class="d">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Gardening is the activity of growing and maintaining the garden.This work is
+done by an amateur or professional gardener.A gardener might also work in a non-garden setting,such as a park,a roadside embankment,or other public space.</p>
+
+<h2><a name="museums">MUSEUMS</a></h2>
+      <div id="main3">
+           <img class="image" src="museum.jpg"/>
+     </div>
+<p class="e">&nbsp &nbsp A museum is an institution that cares for a collection of artifacts and other objects of artistic,cultural,historical,or scientific importance.
+Many public museums make these items available for public viewing through exhibits that may be permanant or temporary.The largest museums are located in major cities throughout
+the world,while thousands of local museums exist in smaller cities,towns,rural areas.Museums have varying aims,ranging from serving researchers and specialists to serving the general public.
+The goal of serving researchers  is increasingly shifting to serving the general public.</p>
+<p class="e">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp There are many types of museums,including art museums,natural history museums,science museums,war museums and children's museums.Amongst the world's 
+largest and most visited museums are the LOUVRE in PARIS,THE NATIONAL MUSEUM OF CHINA in BEIJING,THE BRITISH MUSEUM and NATIONAL GALLERY in LONDON,VATICAN MUSEUMS in VATICAN CITY,etc.According to the 
+International counil of museums,there are more than 55000 museums in 202 countries.</p>
+<p class="e">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Archaeology museums specialize in the display of archaeological artifacts.Many are in the open air,such as the AGORA OF ATHENS 
+and the ROMAN FORUM.Others display artifacts found in archaeological sites inside buildings.Some,such as the WESTERN AUSTRALIAN MUSEUM,exhibit maritime archaeological materials.These appear in its Shipwreck Galleries,
+a wing of the Maritime Museum.This Museum has also developed a 'museum-without-walls' through a series of underwater wreck trails.</p>
+
+<h2><a name="temples">TEMPLES</a></h2>
+      <div id="main3">
+           <img class="image" src="temple.jpg"/>
+     </div>
+<p class="f">&nbsp &nbsp A Temple is a building reserved for religious or spiritual rituals and activites such as prayer and sacrifice.It is typically used for such buildings belonging to all faiths where a 
+more specific term such as church,mosque or synagogue is not generally used in english.These include Hinduism,Buddhism and Jainism among religious with many modern followers,as well as other ancient religions such as Ancient 
+Egyptian religion.</p>
+<p class="f">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The form and function of temples is thus very variable,though they are often considered by believers to be in some sense the "house" of one or more deities.Typically offerings of 
+some sort are made to the deity,and other rituals enacted,and a special group of clergy maintain,and operate the temple.</p>
+<p class="f">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  The temple-building tradition of Mesopotamia dervied from the cults of gods and deities in the Mesopotamian religion.It spanned several civilizations;from Sumerian,Akkadian
+,Assyrian and Babylonian.Ancient Egyptian temples were meant as places for the deities to reside on earth.</p> 
+
+<h2><a name="monuments">MONUMENTS</a></h2>
+      <div id="main3">
+           <img class="image" src="monument.jpeg"/>
+     </div>
+
+<p class="l">&nbsp &nbsp A Monument is a type of-usually three-dimensional-structure that was explicitly created to commemorate a person or event,or which has become relevant to a social
+group as a part of their remembrance of historic times or cultural heritage,due to its artistic,historical,political,technical or architectural importance.Some of the first monuments were 
+dolmens or menhirs,megalithic constructions built for religious or funerary purposes.</p>
+<p class="l">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Examples of monuments include statues,(war)memorials,historical buildings,archaeological sites,and cultural assets.If there is a public interest in its
+preservation,a monument can for example be listed as a UNESCO World Heritage site.</p>
+<p class="l">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Buildings designed as landmarks,usualy built with an extraordinary feature such being designed as the tallest,largest,or most distinctive 
+design,e.g.,the Burj Khalifa in Dubai,the world's tallest structure.Mounds erected to commemorate great leaders,e.g.,Kosciuszko Mound.</p>
+
+<h2><a name="Our Team">OUR TEAM</a></h2>
+    <div id="main3">
+           <img class="image" src="team.png"/>
+     </div>
+
+<h2><a name="mission & vision">MISSION & VISION</a></h2>
+    <div id="main3">
+           <img class="image" src="mission.jpeg"/>
+     </div>
+<h2><a name="resources">RESOURCES</a></h2>
+    <div id="main3">
+           <img class="image" src="resources.jpeg"/>
+     </div>
+
+<h2><a name="prices">PRICES</a></h2>
+    <div id="main3">
+           <img class="image" src="prben.jpg"/>
+           <img class="image" src="prmum.jpg"/>
+           <img class="image" src="prdel.jpg"/>
+     </div>
+
+</body>
+</html>
